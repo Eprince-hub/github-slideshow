@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide! I am glad to create it"
 ---
-This will be my first pull request on github
+This will be my first pull request on GitHub and it is wonderful
 Use the left arrow to go back!
